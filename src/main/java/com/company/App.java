@@ -10,5 +10,6 @@ public class App {
 
         System.out.println(WordUtils.capitalize("hello world!"));
         System.out.println(WordUtils.capitalize("hello world!"));
+        System.out.println("New feature branch");
     }
 }
